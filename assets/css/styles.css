@@ -137,6 +137,10 @@ a.dotted-link:hover {
   margin-right: 30px;
 }
 
+.profile-image {
+  max-height: 9rem;
+}
+
 .header .profile-content .name {
   color: #49515a;
   font-size: 38px;
